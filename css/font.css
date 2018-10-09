@@ -1,0 +1,23 @@
+@font-face {
+    font-family: AritaSans;
+    font-style: normal;
+    font-weight: 400;
+    src: url(../fonts/AritaSans-Medium.eot);
+    src: url(../fonts/AritaSans-Medium.eot?#iefix) format("embedded-opentype"), url(../fonts/AritaSans-Medium.woff) format("woff"), url(../fonts/AritaSans-Medium.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: AritaHeiti;
+    font-style: normal;
+    font-weight: 400;
+    src: url(../fonts/Arita-Heiti.eot);
+    src: url(../fonts/Arita-Heiti.eot?#iefix) format("embedded-opentype"), url(../fonts/Arita-Heiti.woff) format("woff"), url(../fonts/Arita-Heiti.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: Buri;
+    font-style: normal;
+    font-weight: 400;
+    src: url(../fonts/Arita-buri-SemiBold.eot);
+    src: url(../fonts/Arita-buri-SemiBold.eot?#iefix) format("embedded-opentype"), url(../fonts/Arita-buri-SemiBold.woff) format("woff"), url(../fonts/Arita-buri-SemiBold.ttf) format("truetype")
+}
